@@ -1,0 +1,27 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "lite-server",
+    "watch": "tsc --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thiagobre/bootcampSantander-typescript.git"
+  },
+  "author": "Thiago Breanza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thiagobre/bootcampSantander-typescript/issues"
+  },
+  "homepage": "https://github.com/thiagobre/bootcampSantander-typescript#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
